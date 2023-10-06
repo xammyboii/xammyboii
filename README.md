@@ -14,8 +14,7 @@
   <a href="https://www.twitter.com/xammyboii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a>
   <a href="https://letterboxd.com/xammyboii/" target="_blank" rel="noreferrer"><img src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-neg-rgb.svg" width="40" height="40" /></a>
 </p>
-
-### Stats
+---
 <div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=xammyboii&theme=gotham)](https://git.io/streak-stats)
 </div>
