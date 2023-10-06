@@ -10,3 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... xavieryabados.09@gmail.com
 - ⚡ Fun fact: ... I love going to the movies!
 -->
+
+<div align="center">
+  
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xammyboii&theme=tokyonight_duo&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
+</div>
