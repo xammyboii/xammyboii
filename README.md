@@ -5,7 +5,7 @@
 - ⚡ Fun fact about me is that I love going to the movies🍿!
 - 📫 Connect with me via xavieryabados.09@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xammyboii&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xammyboii&layout=compact&theme=tokyonight) <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xammyboii&theme=gotham)](https://git.io/streak-stats)
 
 ### Socials
