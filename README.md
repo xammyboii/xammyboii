@@ -5,9 +5,7 @@
 - ⚡ Fun fact about me is that I love going to the movies🍿!
 - 📫 Connect with me via xavieryabados.09@gmail.com
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=xammyboii&theme=gotham)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xammyboii&theme=gotham)](https://git.io/streak-stats)
 
 ### Socials
 <p align="left">
