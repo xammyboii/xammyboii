@@ -16,11 +16,9 @@
 </p>
 
 ### Stats
-<div align="center">
   <a href="https://github.com/xammyboii/xammyboii">
     <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xammyboii)](https://github.com/xammyboii/github-readme-stats)" />
   </a>
   <a href="https://github.com/xammyboii/xammyboii">
     <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xammyboii&theme=tokyonight_duo&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)" />
   </a>
-</div>
