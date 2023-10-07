@@ -9,7 +9,7 @@
 
 ---
 
-## Tools
+## Stack
 <div align="center">
 <!-- JAVA -->
   <a href="https://www.java.com/en/" ><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40" /></a>|
@@ -56,7 +56,7 @@
 </div>
 
 ---
-
+## Stats
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=xammyboii&theme=gotham)](https://git.io/streak-stats)  <br>
