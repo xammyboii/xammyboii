@@ -5,7 +5,7 @@
 - ✏ I’m currently enrolled in RRC Polytech of the BIT program (term 5)
 - 👀 Always looking for new skills to learn and achieve
 - 🍿 Fun fact about myself is that I love going to the movies!
-- 📫 Connect with me via <a href="xavieryabados.09@gmail.com">Gmail</a>
+- 📫 Connect with me via <a href="mailto: xavieryabados.09@gmail.com">Gmail</a>
 
 ---
 
