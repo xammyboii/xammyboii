@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" />
+<!--   <img src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" /> -->
+  <img src="https://media0.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif?cid=ecf05e47gs0qgonytfysgk7n1ok51w32tfcoc3n3d2yd1pin&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="hey everyone" >
 </div>
   
 - ✏ I’m currently enrolled in RRC Polytech of the BIT program (term 5)
