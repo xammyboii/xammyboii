@@ -64,8 +64,8 @@
 ## Stats 📊
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=xammyboii&theme=gotham)](https://git.io/streak-stats) <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xammyboii&layout=compact&theme=gotham)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=xammyboii&theme=gotham&hide_border=true)](https://git.io/streak-stats) <br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xammyboii&layout=compact&theme=gotham&hide_border=true)
   
 </div>  
 
@@ -76,11 +76,11 @@
 ## Socials 📲
 <p align="left">
 <!-- LINKEDIN -->  
-  <a href="https://www.linkedin.com/in//xaviery-abados-b6aa4b213/" ><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in//xaviery-abados-b6aa4b213/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="40" height="40" /></a>
 <!-- INSTAGRAM -->  
-  <a href="http://www.instagram.com/xammyboii" ><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" /></a>
+  <a href="http://www.instagram.com/xammyboii"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" /></a>
 <!-- LETTERBOXD -->  
-  <a href="https://letterboxd.com/xammyboii/" ><img src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" width="40" height="40" /></a>
+  <a href="https://letterboxd.com/xammyboii/"><img src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" width="40" height="40" /></a>
 <!-- TWITTER/X -->  
-  <a href="https://www.twitter.com/xammyboii" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a>  
+  <a href="https://www.twitter.com/xammyboii"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a>  
 </p>
