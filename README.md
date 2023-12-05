@@ -76,7 +76,7 @@
 ## Socials 📲
 <p align="left">
 <!-- LINKEDIN -->  
-  <a href="https://www.linkedin.com/in//xaviery-abados-b6aa4b213/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/xam-abados/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="40" height="40" /></a>
 <!-- INSTAGRAM -->  
   <a href="http://www.instagram.com/xammyboii"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" /></a>
 <!-- LETTERBOXD -->  
