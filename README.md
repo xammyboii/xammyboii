@@ -3,7 +3,7 @@
   <img src="https://media0.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif?cid=ecf05e47gs0qgonytfysgk7n1ok51w32tfcoc3n3d2yd1pin&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="hey everyone" >
 </div>
   
-- ✏ I’m currently enrolled in RRC Polytech of the BIT program (term 5)
+- ✏ RRC Polytech Graduate of the BIT program (Batch 2021-2023)
 - 👀 Always looking for new skills to learn and achieve
 - 🍿 Fun fact about myself is that I love going to the movies!
 - 📫 Connect with me via <a href="mailto: xavieryabados.09@gmail.com">Gmail</a>
