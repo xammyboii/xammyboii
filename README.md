@@ -2,12 +2,12 @@
 <!--   <img src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" /> -->
   <img src="https://media0.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif?cid=ecf05e47gs0qgonytfysgk7n1ok51w32tfcoc3n3d2yd1pin&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="hey everyone" >
 </div>
-  
-- ✏ RRC Polytech Graduate of the BIT program (Batch 2021-2023)
-- 👀 Always looking for new skills to learn and achieve
-- 🍿 Fun fact about myself is that I love going to the movies!
-- 📫 Connect with me via <a href="mailto: xavieryabados.09@gmail.com">Gmail</a>
 
+- 🏫 RRC Polytech Graduate of the BIT program (Batch 2021-2023)
+- 🍿 Fun fact about myself is that I love going to the movies!
+- 👀 Always looking for new skills to learn and achieve
+- ✏ Currently relearning/mastering... JavaScript!
+<!-- 📫 Connect with me via <a href="mailto: xavieryabados.09@gmail.com">Gmail</a> -->
 ---
 
 ## Stack 📚
@@ -60,20 +60,19 @@
   <a href="https://getbootstrap.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1920px-Bootstrap_logo.svg.png" alt="bootstrap" width="35" height="35"></a>
 </div>
 
----
+
 ## Stats 📊
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=xammyboii&theme=gotham&hide_border=true)](https://git.io/streak-stats) <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xammyboii&layout=compact&theme=gotham&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xammyboii&layout=compact&theme=gotham&hide_border=true) 
   
 </div>  
 
----
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="250" height="250" />
 
 ## Socials 📲
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" height="200" /> 
+
 <p align="left">
 <!-- LINKEDIN -->  
   <a href="https://www.linkedin.com/in/xam-abados/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="40" height="40" /></a>
